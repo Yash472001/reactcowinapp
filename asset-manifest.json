@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactcowinapp/static/css/main.ebdb8022.chunk.css",
+    "main.js": "/reactcowinapp/static/js/main.af824a11.chunk.js",
+    "main.js.map": "/reactcowinapp/static/js/main.af824a11.chunk.js.map",
+    "runtime-main.js": "/reactcowinapp/static/js/runtime-main.2e88f4b2.js",
+    "runtime-main.js.map": "/reactcowinapp/static/js/runtime-main.2e88f4b2.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactcowinapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.3767f9bf.chunk.js": "/reactcowinapp/static/js/2.3767f9bf.chunk.js",
+    "static/js/2.3767f9bf.chunk.js.map": "/reactcowinapp/static/js/2.3767f9bf.chunk.js.map",
+    "index.html": "/reactcowinapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactcowinapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.ebdb8022.chunk.css.map": "/reactcowinapp/static/css/main.ebdb8022.chunk.css.map",
+    "static/js/2.3767f9bf.chunk.js.LICENSE.txt": "/reactcowinapp/static/js/2.3767f9bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e88f4b2.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.3767f9bf.chunk.js",
+    "static/css/main.ebdb8022.chunk.css",
+    "static/js/main.af824a11.chunk.js"
+  ]
+}
