@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@500&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Baloo Paaji 2', cursive;
+  
+}
+
+.navbar{
+  background-color: grey;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+.navbar h3,.navbar h1{
+  margin: 0px 20px;
+  cursor: pointer;
+}
+
+
+
+.container-fluid{
+  width: 90%;
+  margin: auto;
+  
+}
+
+.table-responsive{
+  max-height: 700px;
+  box-shadow: rgba(63, 45, 45, 0.25);
+}
+
+/* tr:hover{
+  background-color: rgb(25, 160, 54);
+} */
+
+td,th{
+  position: relative;
+}
+
+thead tr{
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+
+.table td,
+.table th{
+  padding: 0rem;
+  vertical-align: top;
+  border-top: none;
+  margin: 25px;
+  text-align: center;
+}
+
+td:hover::after
+th:hover::after{
+  content: "";
+  position: absolute;
+  background-color: #f2f2f2;
+  left: 0;
+  top: -5000px;
+  height: 5000px;
+  width: 100%;
+  z-index: -1;
+}
+
+.footer{
+  background-color: gray;
+}
+
+.d-flex{
+  margin-left: 800px;
+}
+
+/* .table tr td:hover:nth-child(4){
+  background-color: rgb(129, 124, 118);
+  color: aliceblue;
+  border: 1px solid rgb(209, 192, 192);
+} */
+
